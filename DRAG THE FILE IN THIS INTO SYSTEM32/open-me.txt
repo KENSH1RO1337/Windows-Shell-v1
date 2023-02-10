@@ -1,0 +1,2 @@
+Move every file expect this one in your system32 directory :
+C:\Windows\System32
